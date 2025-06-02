@@ -1,16 +1,13 @@
-## Hi there 👋
+## 💻 Olá, meu nome é Felipe!
+Felipe é desenvolvedor fullstack e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, busca constantemente expandir seus horizontes e evoluir profissionalmente. Atualmente vive no Rio Grande do Sul, onde é tutor de quatro gatinhos e sobrevive à base de chimarrão e tererê bem gelado.
 
-<!--
-**devfenrir/devfenrir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈Estatísticas:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfenrir&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
