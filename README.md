@@ -1,6 +1,3 @@
-## 💻 Olá, meu nome é Felipe!
-Felipe é desenvolvedor fullstack e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, busca constantemente expandir seus horizontes e evoluir profissionalmente.
-
 ## 📈Estatísticas:
 
 <p>
