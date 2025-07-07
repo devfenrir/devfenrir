@@ -2,7 +2,7 @@
 <img 
       align="center" 
       alt="Status do Github, tecnologias mais utilizadas" 
-      height="220" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfenrir&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
