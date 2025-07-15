@@ -48,7 +48,6 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 ### 📫 Como falar comigo
 
 - 💌 E-mail: `felipe.devsoftwareengineer@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-campagnol/)
 - 🌐 [Meu portfólio](https://portfolio-devfenrir.vercel.app)
 
 ---
