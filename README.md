@@ -26,9 +26,6 @@ Sou um desenvolvedor brasileiro determinado, criativo e curioso, que ama transfo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Back-end & ferramentas
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
 ---
 
 ### 💡 Fun facts
