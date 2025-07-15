@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor brasileiro determinado, criativo e curioso, que ama transformar ideias em sistemas funcionais. Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, buscando constantemente evoluir meus conhecimentos em tecnologias como **Java**, **Python**, **HTML/CSS**, **JavaScript** e **SQL/Oracle**.
+Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e curioso, que ama transformar ideias em sistemas funcionais. Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, buscando constantemente evoluir meus conhecimentos em tecnologias como **Java**, **Python**, **HTML/CSS**, **JavaScript** e **SQL/Oracle**.
 
 ---
 
