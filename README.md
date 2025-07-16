@@ -6,21 +6,21 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
 Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e curioso, que ama transformar ideias em sistemas funcionais. Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, buscando constantemente evoluir meus conhecimentos em tecnologias como **Java**, **Python**, **HTML/CSS**, **JavaScript** e **SQL/Oracle**.
 
 ---
 
-## 🧰 Tecnologias que uso
+# 🧰 Tecnologias que uso
 
-### Linguagens
+## Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Front-end
+## Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -28,7 +28,7 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 
 ---
 
-## 💡 Fun facts
+# 💡 Fun facts
 
 - Amo a cultura viking 🛡️
 - Me expresso com arte, design e interfaces; adoro fazer projetos bonitos e intuitivos
@@ -36,7 +36,7 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfenrir&show_icons=true&theme=tokyonight&count_private=true" />
@@ -45,7 +45,7 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 
 ---
 
-## 📫 Como falar comigo
+# 📫 Como falar comigo
 
 - 💌 E-mail: `felipe.devsoftwareengineer@gmail.com`
 - 🌐 [Meu portfólio](https://portfolio-devfenrir.vercel.app)
