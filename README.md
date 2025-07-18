@@ -39,8 +39,8 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 # 📈 GitHub Stats
 
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfenrir&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfenrir&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=devfenrir&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfenrir&layout=compact&langs_count=8&theme=tokyonight"/>
   </div>
 
 ---
