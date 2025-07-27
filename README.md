@@ -1,7 +1,7 @@
 <h1 align="center">👋 Oi! Eu sou o Felipe da Silva Campagnol (devfenrir) </h1>
 
 <p align="center">
-  &nbsp|&nbsp 🧠 Programador apaixonado por criar soluções reais &nbsp|&nbsp 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong> &nbsp|&nbsp
+   🧠 Programador apaixonado por criar soluções reais &nbsp|&nbsp 🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FIAP</strong> 
 </p>
 
 ---
