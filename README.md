@@ -34,6 +34,8 @@ Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e c
 - Amo a cultura viking 🛡️
 - Me expresso com arte, design e interfaces; adoro fazer projetos bonitos e intuitivos
 - Estou sempre aprendendo e buscando novas formas de evoluir com meus códigos
+- Nem todo o programador só escreve código, meu principal hobbie é escrever poemas/textos filosóficos quando estou entediado
+- Curto uma boa viagem, um chimarrão e/ou tererê e um lugar calmo para acompanhamento
 
 ---
 
