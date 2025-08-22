@@ -7,7 +7,7 @@
 
 # 👨‍💻 Sobre mim
 
-Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e curioso, que ama transformar ideias em sistemas funcionais. Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, buscando constantemente evoluir meus conhecimentos em diversas tecnologias.
+Sou um desenvolvedor brasileiro com foco em FullStack, determinado, criativo e curioso, que ama transformar ideias em sistemas funcionais. Atualmente estudo Análise e Desenvolvimento de Sistemas na FIAP, buscando constantemente evoluir meus conhecimentos em diversas tecnologias. Seja bem-vindo(a)!
 
 ---
 
